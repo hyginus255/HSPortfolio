@@ -1,0 +1,19 @@
+Wireframe : moqups.com
+Database Design Tool : lucidchart.com
+Project Management Tool : pivotaltracker.com
+Front End Technology : CSS, HTML, Javascript, Boostrap
+Back End Technology : PHP
+Back End Framework : Laravel
+Database : MySql
+File Control System : Git HUb.
+
+
+
+A Dynamic portfolio website for web developers.
+
+1. Manage personal Details.
+   - Contact details : Phone number, Address , email, social media account.
+   - Personal Picture.
+   - Tagline
+   - Logo
+2. 
